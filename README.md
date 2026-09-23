@@ -1,7 +1,7 @@
 # Biopharmaceutical Commercial Analytics & Decision Sciences Suite
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharma-commercial-analytics.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharma-commercial-analytics-vikaskolanu.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An end-to-end pharmaceutical commercial intelligence and decision sciences platform designed for biopharma brand leadership, sales operations, and market access teams. This system synthesizes multi-year longitudinal prescription claims (Medicare Part D schema) across leading therapeutic franchises, executes supervised machine learning models for 12-month demand forecasting and patient therapy persistence, and delivers an institutional decision-support interface.
@@ -9,7 +9,7 @@ An end-to-end pharmaceutical commercial intelligence and decision sciences platf
 ---
 
 ## Live Application
-- **Live Streamlit Deployment:** [https://pharma-commercial-analytics.streamlit.app](https://pharma-commercial-analytics.streamlit.app)
+- **Live Streamlit Deployment:** [https://pharma-commercial-analytics-vikaskolanu.streamlit.app/](https://pharma-commercial-analytics-vikaskolanu.streamlit.app/)
 - **Interactive Local Dashboard:** `http://localhost:8501`
 
 ---
