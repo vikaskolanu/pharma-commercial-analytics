@@ -1,0 +1,13 @@
+Country,ISO,Region,Base_TRx,Market_Share,Net_Sales_M,Sales_Director
+United States,USA,North America,420000,64.2,1850.5,Elena Vance
+Germany,DEU,Europe,95000,58.1,410.2,Klaus Weber
+Japan,JPN,Asia-Pacific,110000,61.5,480.0,Kenji Sato
+United Kingdom,GBR,Europe,72000,54.8,310.4,Arthur Pendelton
+France,FRA,Europe,68000,52.3,295.1,Claire Dubois
+Canada,CAN,North America,54000,59.0,235.8,Marc Tremblay
+Italy,ITA,Europe,48000,51.2,210.0,Matteo Rossi
+Spain,ESP,Europe,42000,50.5,185.3,Sofia Alvarez
+Australia,AUS,Asia-Pacific,38000,56.4,168.0,Liam O'Connor
+Brazil,BRA,Latin America,29000,46.7,125.4,Gabriel Silva
+South Korea,KOR,Asia-Pacific,31000,53.1,136.2,Min-jun Kim
+Switzerland,CHE,Europe,22000,63.4,105.0,Beat Meier
