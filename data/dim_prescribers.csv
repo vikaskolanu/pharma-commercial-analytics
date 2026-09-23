@@ -1,0 +1,401 @@
+NPI,Doctor_Name,Specialty,Territory_ID,Prescriber_Decile,Is_KOL,Affiliated_Hospital_System
+NPI_1000000001,Dr. Provider_1,Endocrinologist,TER_SO_01,1,0,HealthSystem_7
+NPI_1000000002,Dr. Provider_2,Endocrinologist,TER_WE_01,1,0,HealthSystem_4
+NPI_1000000003,Dr. Provider_3,Cardiologist,TER_MW_01,1,1,HealthSystem_12
+NPI_1000000004,Dr. Provider_4,Internal Medicine,TER_NE_02,1,0,HealthSystem_12
+NPI_1000000005,Dr. Provider_5,Rheumatologist,TER_SO_01,3,0,HealthSystem_10
+NPI_1000000006,Dr. Provider_6,Cardiologist,TER_MW_02,2,0,HealthSystem_15
+NPI_1000000007,Dr. Provider_7,Rheumatologist,TER_MW_02,3,0,HealthSystem_3
+NPI_1000000008,Dr. Provider_8,Internal Medicine,TER_WE_01,1,0,HealthSystem_4
+NPI_1000000009,Dr. Provider_9,Internal Medicine,TER_SO_02,6,0,HealthSystem_2
+NPI_1000000010,Dr. Provider_10,Rheumatologist,TER_WE_01,5,0,HealthSystem_8
+NPI_1000000011,Dr. Provider_11,Cardiologist,TER_SO_02,3,0,HealthSystem_4
+NPI_1000000012,Dr. Provider_12,Cardiologist,TER_SO_02,2,0,HealthSystem_18
+NPI_1000000013,Dr. Provider_13,Rheumatologist,TER_NE_02,3,1,HealthSystem_16
+NPI_1000000014,Dr. Provider_14,Cardiologist,TER_SO_02,1,0,HealthSystem_8
+NPI_1000000015,Dr. Provider_15,Internal Medicine,TER_SO_01,2,0,HealthSystem_13
+NPI_1000000016,Dr. Provider_16,Cardiologist,TER_WE_01,1,0,HealthSystem_9
+NPI_1000000017,Dr. Provider_17,Rheumatologist,TER_MW_02,2,0,HealthSystem_19
+NPI_1000000018,Dr. Provider_18,Rheumatologist,TER_MW_01,6,0,HealthSystem_10
+NPI_1000000019,Dr. Provider_19,Endocrinologist,TER_NE_01,8,0,HealthSystem_12
+NPI_1000000020,Dr. Provider_20,Cardiologist,TER_WE_02,2,0,HealthSystem_5
+NPI_1000000021,Dr. Provider_21,Rheumatologist,TER_WE_02,2,0,HealthSystem_3
+NPI_1000000022,Dr. Provider_22,Cardiologist,TER_SO_02,7,0,HealthSystem_14
+NPI_1000000023,Dr. Provider_23,Endocrinologist,TER_NE_01,5,0,HealthSystem_13
+NPI_1000000024,Dr. Provider_24,Cardiologist,TER_WE_02,4,0,HealthSystem_4
+NPI_1000000025,Dr. Provider_25,Internal Medicine,TER_WE_01,4,0,HealthSystem_4
+NPI_1000000026,Dr. Provider_26,Internal Medicine,TER_WE_01,2,0,HealthSystem_2
+NPI_1000000027,Dr. Provider_27,Rheumatologist,TER_SO_02,4,0,HealthSystem_12
+NPI_1000000028,Dr. Provider_28,Cardiologist,TER_SO_02,7,0,HealthSystem_7
+NPI_1000000029,Dr. Provider_29,Internal Medicine,TER_NE_01,2,0,HealthSystem_13
+NPI_1000000030,Dr. Provider_30,Internal Medicine,TER_WE_01,1,0,HealthSystem_5
+NPI_1000000031,Dr. Provider_31,Rheumatologist,TER_NE_02,2,1,HealthSystem_9
+NPI_1000000032,Dr. Provider_32,Endocrinologist,TER_SO_02,9,1,HealthSystem_7
+NPI_1000000033,Dr. Provider_33,Endocrinologist,TER_NE_01,1,1,HealthSystem_17
+NPI_1000000034,Dr. Provider_34,Oncologist,TER_MW_02,1,0,HealthSystem_1
+NPI_1000000035,Dr. Provider_35,Rheumatologist,TER_SO_02,1,0,HealthSystem_6
+NPI_1000000036,Dr. Provider_36,Cardiologist,TER_MW_02,1,0,HealthSystem_17
+NPI_1000000037,Dr. Provider_37,Rheumatologist,TER_WE_02,3,1,HealthSystem_11
+NPI_1000000038,Dr. Provider_38,Internal Medicine,TER_WE_02,7,0,HealthSystem_6
+NPI_1000000039,Dr. Provider_39,Rheumatologist,TER_MW_01,4,0,HealthSystem_19
+NPI_1000000040,Dr. Provider_40,Rheumatologist,TER_WE_01,2,0,HealthSystem_9
+NPI_1000000041,Dr. Provider_41,Rheumatologist,TER_WE_02,3,0,HealthSystem_11
+NPI_1000000042,Dr. Provider_42,Cardiologist,TER_NE_01,2,0,HealthSystem_10
+NPI_1000000043,Dr. Provider_43,Cardiologist,TER_MW_02,1,1,HealthSystem_17
+NPI_1000000044,Dr. Provider_44,Cardiologist,TER_WE_02,9,0,HealthSystem_9
+NPI_1000000045,Dr. Provider_45,Cardiologist,TER_MW_01,5,0,HealthSystem_1
+NPI_1000000046,Dr. Provider_46,Rheumatologist,TER_MW_01,8,0,HealthSystem_8
+NPI_1000000047,Dr. Provider_47,Rheumatologist,TER_MW_01,2,1,HealthSystem_18
+NPI_1000000048,Dr. Provider_48,Cardiologist,TER_NE_02,3,0,HealthSystem_9
+NPI_1000000049,Dr. Provider_49,Cardiologist,TER_MW_02,2,0,HealthSystem_8
+NPI_1000000050,Dr. Provider_50,Internal Medicine,TER_NE_01,2,0,HealthSystem_19
+NPI_1000000051,Dr. Provider_51,Rheumatologist,TER_SO_02,2,1,HealthSystem_13
+NPI_1000000052,Dr. Provider_52,Endocrinologist,TER_WE_02,4,0,HealthSystem_1
+NPI_1000000053,Dr. Provider_53,Endocrinologist,TER_WE_02,7,0,HealthSystem_16
+NPI_1000000054,Dr. Provider_54,Cardiologist,TER_MW_01,6,0,HealthSystem_12
+NPI_1000000055,Dr. Provider_55,Internal Medicine,TER_SO_01,2,0,HealthSystem_9
+NPI_1000000056,Dr. Provider_56,Oncologist,TER_SO_01,3,1,HealthSystem_3
+NPI_1000000057,Dr. Provider_57,Oncologist,TER_MW_02,2,0,HealthSystem_1
+NPI_1000000058,Dr. Provider_58,Cardiologist,TER_WE_02,2,0,HealthSystem_3
+NPI_1000000059,Dr. Provider_59,Endocrinologist,TER_WE_02,2,0,HealthSystem_2
+NPI_1000000060,Dr. Provider_60,Cardiologist,TER_NE_02,7,0,HealthSystem_1
+NPI_1000000061,Dr. Provider_61,Cardiologist,TER_SO_02,2,0,HealthSystem_3
+NPI_1000000062,Dr. Provider_62,Cardiologist,TER_WE_02,8,0,HealthSystem_4
+NPI_1000000063,Dr. Provider_63,Rheumatologist,TER_NE_01,1,0,HealthSystem_14
+NPI_1000000064,Dr. Provider_64,Internal Medicine,TER_WE_01,1,0,HealthSystem_19
+NPI_1000000065,Dr. Provider_65,Endocrinologist,TER_WE_01,10,0,HealthSystem_17
+NPI_1000000066,Dr. Provider_66,Cardiologist,TER_SO_02,2,0,HealthSystem_5
+NPI_1000000067,Dr. Provider_67,Endocrinologist,TER_SO_01,2,1,HealthSystem_7
+NPI_1000000068,Dr. Provider_68,Cardiologist,TER_SO_01,1,0,HealthSystem_3
+NPI_1000000069,Dr. Provider_69,Rheumatologist,TER_MW_02,1,1,HealthSystem_10
+NPI_1000000070,Dr. Provider_70,Cardiologist,TER_NE_01,3,0,HealthSystem_5
+NPI_1000000071,Dr. Provider_71,Cardiologist,TER_SO_02,7,0,HealthSystem_1
+NPI_1000000072,Dr. Provider_72,Cardiologist,TER_NE_01,3,0,HealthSystem_16
+NPI_1000000073,Dr. Provider_73,Cardiologist,TER_SO_01,2,1,HealthSystem_7
+NPI_1000000074,Dr. Provider_74,Rheumatologist,TER_SO_01,4,0,HealthSystem_12
+NPI_1000000075,Dr. Provider_75,Endocrinologist,TER_MW_01,6,0,HealthSystem_14
+NPI_1000000076,Dr. Provider_76,Cardiologist,TER_WE_01,1,0,HealthSystem_5
+NPI_1000000077,Dr. Provider_77,Endocrinologist,TER_NE_02,6,0,HealthSystem_4
+NPI_1000000078,Dr. Provider_78,Cardiologist,TER_SO_02,4,0,HealthSystem_5
+NPI_1000000079,Dr. Provider_79,Internal Medicine,TER_MW_02,2,0,HealthSystem_1
+NPI_1000000080,Dr. Provider_80,Endocrinologist,TER_SO_01,1,0,HealthSystem_2
+NPI_1000000081,Dr. Provider_81,Cardiologist,TER_WE_02,4,0,HealthSystem_12
+NPI_1000000082,Dr. Provider_82,Endocrinologist,TER_MW_02,1,0,HealthSystem_11
+NPI_1000000083,Dr. Provider_83,Internal Medicine,TER_MW_01,6,0,HealthSystem_11
+NPI_1000000084,Dr. Provider_84,Cardiologist,TER_SO_01,2,0,HealthSystem_19
+NPI_1000000085,Dr. Provider_85,Rheumatologist,TER_WE_01,1,0,HealthSystem_10
+NPI_1000000086,Dr. Provider_86,Cardiologist,TER_NE_02,2,0,HealthSystem_18
+NPI_1000000087,Dr. Provider_87,Rheumatologist,TER_SO_01,1,0,HealthSystem_4
+NPI_1000000088,Dr. Provider_88,Cardiologist,TER_NE_01,4,0,HealthSystem_3
+NPI_1000000089,Dr. Provider_89,Endocrinologist,TER_NE_02,2,0,HealthSystem_5
+NPI_1000000090,Dr. Provider_90,Cardiologist,TER_WE_01,6,0,HealthSystem_9
+NPI_1000000091,Dr. Provider_91,Endocrinologist,TER_NE_01,3,0,HealthSystem_13
+NPI_1000000092,Dr. Provider_92,Internal Medicine,TER_NE_01,1,1,HealthSystem_19
+NPI_1000000093,Dr. Provider_93,Cardiologist,TER_WE_01,9,0,HealthSystem_19
+NPI_1000000094,Dr. Provider_94,Endocrinologist,TER_WE_02,3,0,HealthSystem_4
+NPI_1000000095,Dr. Provider_95,Internal Medicine,TER_WE_02,6,0,HealthSystem_10
+NPI_1000000096,Dr. Provider_96,Oncologist,TER_SO_02,4,0,HealthSystem_11
+NPI_1000000097,Dr. Provider_97,Rheumatologist,TER_WE_01,1,0,HealthSystem_12
+NPI_1000000098,Dr. Provider_98,Internal Medicine,TER_SO_02,1,0,HealthSystem_10
+NPI_1000000099,Dr. Provider_99,Endocrinologist,TER_MW_01,5,0,HealthSystem_5
+NPI_1000000100,Dr. Provider_100,Cardiologist,TER_WE_02,2,0,HealthSystem_17
+NPI_1000000101,Dr. Provider_101,Internal Medicine,TER_NE_01,4,0,HealthSystem_19
+NPI_1000000102,Dr. Provider_102,Rheumatologist,TER_SO_02,5,0,HealthSystem_19
+NPI_1000000103,Dr. Provider_103,Cardiologist,TER_MW_01,2,0,HealthSystem_8
+NPI_1000000104,Dr. Provider_104,Cardiologist,TER_NE_01,5,0,HealthSystem_17
+NPI_1000000105,Dr. Provider_105,Cardiologist,TER_NE_01,2,1,HealthSystem_12
+NPI_1000000106,Dr. Provider_106,Oncologist,TER_SO_01,1,0,HealthSystem_11
+NPI_1000000107,Dr. Provider_107,Internal Medicine,TER_MW_02,4,1,HealthSystem_18
+NPI_1000000108,Dr. Provider_108,Cardiologist,TER_NE_01,5,0,HealthSystem_3
+NPI_1000000109,Dr. Provider_109,Internal Medicine,TER_NE_01,8,1,HealthSystem_16
+NPI_1000000110,Dr. Provider_110,Internal Medicine,TER_MW_02,1,0,HealthSystem_4
+NPI_1000000111,Dr. Provider_111,Endocrinologist,TER_NE_02,2,0,HealthSystem_5
+NPI_1000000112,Dr. Provider_112,Oncologist,TER_WE_02,3,0,HealthSystem_9
+NPI_1000000113,Dr. Provider_113,Cardiologist,TER_MW_02,4,0,HealthSystem_13
+NPI_1000000114,Dr. Provider_114,Internal Medicine,TER_SO_01,9,0,HealthSystem_5
+NPI_1000000115,Dr. Provider_115,Rheumatologist,TER_NE_02,1,0,HealthSystem_13
+NPI_1000000116,Dr. Provider_116,Cardiologist,TER_WE_02,2,0,HealthSystem_15
+NPI_1000000117,Dr. Provider_117,Cardiologist,TER_SO_01,5,0,HealthSystem_17
+NPI_1000000118,Dr. Provider_118,Internal Medicine,TER_NE_02,1,0,HealthSystem_16
+NPI_1000000119,Dr. Provider_119,Cardiologist,TER_MW_02,6,1,HealthSystem_6
+NPI_1000000120,Dr. Provider_120,Internal Medicine,TER_WE_01,6,1,HealthSystem_10
+NPI_1000000121,Dr. Provider_121,Endocrinologist,TER_SO_01,3,0,HealthSystem_19
+NPI_1000000122,Dr. Provider_122,Cardiologist,TER_MW_02,2,0,HealthSystem_2
+NPI_1000000123,Dr. Provider_123,Endocrinologist,TER_WE_02,1,0,HealthSystem_3
+NPI_1000000124,Dr. Provider_124,Endocrinologist,TER_MW_02,6,1,HealthSystem_17
+NPI_1000000125,Dr. Provider_125,Cardiologist,TER_WE_01,3,0,HealthSystem_14
+NPI_1000000126,Dr. Provider_126,Rheumatologist,TER_MW_01,8,0,HealthSystem_2
+NPI_1000000127,Dr. Provider_127,Endocrinologist,TER_NE_02,4,0,HealthSystem_19
+NPI_1000000128,Dr. Provider_128,Internal Medicine,TER_MW_02,4,0,HealthSystem_15
+NPI_1000000129,Dr. Provider_129,Endocrinologist,TER_WE_01,3,0,HealthSystem_4
+NPI_1000000130,Dr. Provider_130,Endocrinologist,TER_NE_01,3,0,HealthSystem_5
+NPI_1000000131,Dr. Provider_131,Oncologist,TER_SO_01,2,0,HealthSystem_11
+NPI_1000000132,Dr. Provider_132,Cardiologist,TER_MW_01,4,0,HealthSystem_16
+NPI_1000000133,Dr. Provider_133,Cardiologist,TER_SO_02,5,0,HealthSystem_4
+NPI_1000000134,Dr. Provider_134,Cardiologist,TER_MW_01,7,0,HealthSystem_18
+NPI_1000000135,Dr. Provider_135,Rheumatologist,TER_MW_01,1,0,HealthSystem_10
+NPI_1000000136,Dr. Provider_136,Cardiologist,TER_SO_01,4,0,HealthSystem_12
+NPI_1000000137,Dr. Provider_137,Cardiologist,TER_NE_02,1,0,HealthSystem_9
+NPI_1000000138,Dr. Provider_138,Cardiologist,TER_WE_01,4,0,HealthSystem_11
+NPI_1000000139,Dr. Provider_139,Internal Medicine,TER_SO_01,1,0,HealthSystem_8
+NPI_1000000140,Dr. Provider_140,Rheumatologist,TER_SO_01,10,0,HealthSystem_14
+NPI_1000000141,Dr. Provider_141,Rheumatologist,TER_WE_01,4,0,HealthSystem_14
+NPI_1000000142,Dr. Provider_142,Cardiologist,TER_MW_01,5,0,HealthSystem_14
+NPI_1000000143,Dr. Provider_143,Rheumatologist,TER_MW_02,1,0,HealthSystem_3
+NPI_1000000144,Dr. Provider_144,Endocrinologist,TER_WE_02,2,0,HealthSystem_10
+NPI_1000000145,Dr. Provider_145,Endocrinologist,TER_NE_01,2,0,HealthSystem_12
+NPI_1000000146,Dr. Provider_146,Cardiologist,TER_SO_01,4,0,HealthSystem_3
+NPI_1000000147,Dr. Provider_147,Rheumatologist,TER_NE_02,1,0,HealthSystem_2
+NPI_1000000148,Dr. Provider_148,Endocrinologist,TER_WE_02,3,0,HealthSystem_9
+NPI_1000000149,Dr. Provider_149,Cardiologist,TER_MW_02,4,0,HealthSystem_13
+NPI_1000000150,Dr. Provider_150,Cardiologist,TER_NE_01,2,0,HealthSystem_6
+NPI_1000000151,Dr. Provider_151,Endocrinologist,TER_WE_02,1,0,HealthSystem_9
+NPI_1000000152,Dr. Provider_152,Cardiologist,TER_MW_01,1,0,HealthSystem_6
+NPI_1000000153,Dr. Provider_153,Endocrinologist,TER_MW_02,8,0,HealthSystem_17
+NPI_1000000154,Dr. Provider_154,Endocrinologist,TER_SO_02,5,1,HealthSystem_15
+NPI_1000000155,Dr. Provider_155,Endocrinologist,TER_NE_02,2,0,HealthSystem_6
+NPI_1000000156,Dr. Provider_156,Oncologist,TER_MW_02,3,0,HealthSystem_17
+NPI_1000000157,Dr. Provider_157,Endocrinologist,TER_NE_01,4,0,HealthSystem_5
+NPI_1000000158,Dr. Provider_158,Endocrinologist,TER_WE_01,3,0,HealthSystem_1
+NPI_1000000159,Dr. Provider_159,Endocrinologist,TER_WE_02,1,0,HealthSystem_12
+NPI_1000000160,Dr. Provider_160,Cardiologist,TER_WE_02,6,0,HealthSystem_5
+NPI_1000000161,Dr. Provider_161,Cardiologist,TER_NE_01,4,0,HealthSystem_3
+NPI_1000000162,Dr. Provider_162,Cardiologist,TER_NE_01,7,0,HealthSystem_18
+NPI_1000000163,Dr. Provider_163,Cardiologist,TER_WE_02,10,0,HealthSystem_3
+NPI_1000000164,Dr. Provider_164,Cardiologist,TER_WE_02,5,0,HealthSystem_8
+NPI_1000000165,Dr. Provider_165,Internal Medicine,TER_SO_01,2,0,HealthSystem_5
+NPI_1000000166,Dr. Provider_166,Internal Medicine,TER_MW_01,4,0,HealthSystem_13
+NPI_1000000167,Dr. Provider_167,Endocrinologist,TER_NE_02,6,0,HealthSystem_14
+NPI_1000000168,Dr. Provider_168,Internal Medicine,TER_SO_01,2,0,HealthSystem_15
+NPI_1000000169,Dr. Provider_169,Endocrinologist,TER_NE_01,8,0,HealthSystem_14
+NPI_1000000170,Dr. Provider_170,Cardiologist,TER_WE_02,4,0,HealthSystem_6
+NPI_1000000171,Dr. Provider_171,Cardiologist,TER_MW_01,2,0,HealthSystem_15
+NPI_1000000172,Dr. Provider_172,Internal Medicine,TER_NE_01,4,0,HealthSystem_4
+NPI_1000000173,Dr. Provider_173,Oncologist,TER_NE_01,2,0,HealthSystem_1
+NPI_1000000174,Dr. Provider_174,Cardiologist,TER_SO_02,5,0,HealthSystem_10
+NPI_1000000175,Dr. Provider_175,Cardiologist,TER_SO_02,4,0,HealthSystem_13
+NPI_1000000176,Dr. Provider_176,Cardiologist,TER_WE_02,3,0,HealthSystem_15
+NPI_1000000177,Dr. Provider_177,Endocrinologist,TER_SO_01,5,0,HealthSystem_19
+NPI_1000000178,Dr. Provider_178,Endocrinologist,TER_NE_02,2,0,HealthSystem_11
+NPI_1000000179,Dr. Provider_179,Oncologist,TER_WE_02,4,0,HealthSystem_15
+NPI_1000000180,Dr. Provider_180,Cardiologist,TER_MW_01,1,0,HealthSystem_18
+NPI_1000000181,Dr. Provider_181,Rheumatologist,TER_WE_01,5,0,HealthSystem_12
+NPI_1000000182,Dr. Provider_182,Endocrinologist,TER_MW_02,6,0,HealthSystem_10
+NPI_1000000183,Dr. Provider_183,Rheumatologist,TER_WE_01,4,0,HealthSystem_14
+NPI_1000000184,Dr. Provider_184,Internal Medicine,TER_SO_02,8,0,HealthSystem_5
+NPI_1000000185,Dr. Provider_185,Oncologist,TER_SO_02,1,0,HealthSystem_1
+NPI_1000000186,Dr. Provider_186,Internal Medicine,TER_WE_01,2,0,HealthSystem_15
+NPI_1000000187,Dr. Provider_187,Cardiologist,TER_NE_01,2,0,HealthSystem_9
+NPI_1000000188,Dr. Provider_188,Cardiologist,TER_MW_02,4,0,HealthSystem_2
+NPI_1000000189,Dr. Provider_189,Endocrinologist,TER_MW_01,5,0,HealthSystem_11
+NPI_1000000190,Dr. Provider_190,Cardiologist,TER_MW_01,1,0,HealthSystem_7
+NPI_1000000191,Dr. Provider_191,Cardiologist,TER_SO_01,8,0,HealthSystem_11
+NPI_1000000192,Dr. Provider_192,Rheumatologist,TER_MW_02,2,0,HealthSystem_17
+NPI_1000000193,Dr. Provider_193,Oncologist,TER_NE_01,4,0,HealthSystem_8
+NPI_1000000194,Dr. Provider_194,Endocrinologist,TER_NE_01,2,0,HealthSystem_19
+NPI_1000000195,Dr. Provider_195,Cardiologist,TER_MW_01,2,0,HealthSystem_17
+NPI_1000000196,Dr. Provider_196,Cardiologist,TER_SO_02,7,0,HealthSystem_1
+NPI_1000000197,Dr. Provider_197,Rheumatologist,TER_WE_01,3,0,HealthSystem_17
+NPI_1000000198,Dr. Provider_198,Endocrinologist,TER_SO_02,6,0,HealthSystem_8
+NPI_1000000199,Dr. Provider_199,Internal Medicine,TER_WE_01,6,0,HealthSystem_19
+NPI_1000000200,Dr. Provider_200,Rheumatologist,TER_MW_02,6,1,HealthSystem_18
+NPI_1000000201,Dr. Provider_201,Internal Medicine,TER_WE_02,1,0,HealthSystem_8
+NPI_1000000202,Dr. Provider_202,Cardiologist,TER_WE_01,4,0,HealthSystem_15
+NPI_1000000203,Dr. Provider_203,Rheumatologist,TER_MW_01,2,0,HealthSystem_14
+NPI_1000000204,Dr. Provider_204,Internal Medicine,TER_MW_02,9,0,HealthSystem_14
+NPI_1000000205,Dr. Provider_205,Cardiologist,TER_WE_02,1,0,HealthSystem_1
+NPI_1000000206,Dr. Provider_206,Cardiologist,TER_MW_01,1,0,HealthSystem_18
+NPI_1000000207,Dr. Provider_207,Internal Medicine,TER_WE_01,4,0,HealthSystem_2
+NPI_1000000208,Dr. Provider_208,Endocrinologist,TER_WE_01,2,0,HealthSystem_6
+NPI_1000000209,Dr. Provider_209,Rheumatologist,TER_NE_01,3,0,HealthSystem_12
+NPI_1000000210,Dr. Provider_210,Cardiologist,TER_NE_02,4,1,HealthSystem_17
+NPI_1000000211,Dr. Provider_211,Endocrinologist,TER_NE_01,2,0,HealthSystem_13
+NPI_1000000212,Dr. Provider_212,Endocrinologist,TER_NE_01,1,0,HealthSystem_4
+NPI_1000000213,Dr. Provider_213,Cardiologist,TER_SO_01,1,0,HealthSystem_11
+NPI_1000000214,Dr. Provider_214,Internal Medicine,TER_WE_02,1,0,HealthSystem_6
+NPI_1000000215,Dr. Provider_215,Cardiologist,TER_SO_01,5,0,HealthSystem_10
+NPI_1000000216,Dr. Provider_216,Cardiologist,TER_MW_01,8,0,HealthSystem_8
+NPI_1000000217,Dr. Provider_217,Cardiologist,TER_SO_01,5,0,HealthSystem_13
+NPI_1000000218,Dr. Provider_218,Internal Medicine,TER_SO_01,3,0,HealthSystem_2
+NPI_1000000219,Dr. Provider_219,Cardiologist,TER_MW_01,1,0,HealthSystem_19
+NPI_1000000220,Dr. Provider_220,Cardiologist,TER_SO_01,7,0,HealthSystem_4
+NPI_1000000221,Dr. Provider_221,Rheumatologist,TER_WE_01,4,1,HealthSystem_15
+NPI_1000000222,Dr. Provider_222,Oncologist,TER_SO_02,5,0,HealthSystem_4
+NPI_1000000223,Dr. Provider_223,Endocrinologist,TER_MW_01,4,0,HealthSystem_13
+NPI_1000000224,Dr. Provider_224,Cardiologist,TER_NE_01,6,0,HealthSystem_9
+NPI_1000000225,Dr. Provider_225,Endocrinologist,TER_NE_01,3,0,HealthSystem_10
+NPI_1000000226,Dr. Provider_226,Endocrinologist,TER_MW_01,6,0,HealthSystem_12
+NPI_1000000227,Dr. Provider_227,Oncologist,TER_SO_02,4,0,HealthSystem_12
+NPI_1000000228,Dr. Provider_228,Internal Medicine,TER_NE_01,1,1,HealthSystem_17
+NPI_1000000229,Dr. Provider_229,Cardiologist,TER_SO_02,9,0,HealthSystem_17
+NPI_1000000230,Dr. Provider_230,Rheumatologist,TER_SO_02,4,1,HealthSystem_18
+NPI_1000000231,Dr. Provider_231,Endocrinologist,TER_WE_01,5,0,HealthSystem_15
+NPI_1000000232,Dr. Provider_232,Cardiologist,TER_WE_02,8,0,HealthSystem_7
+NPI_1000000233,Dr. Provider_233,Cardiologist,TER_SO_01,5,0,HealthSystem_8
+NPI_1000000234,Dr. Provider_234,Oncologist,TER_WE_01,6,0,HealthSystem_7
+NPI_1000000235,Dr. Provider_235,Endocrinologist,TER_MW_01,6,0,HealthSystem_3
+NPI_1000000236,Dr. Provider_236,Endocrinologist,TER_SO_01,1,0,HealthSystem_8
+NPI_1000000237,Dr. Provider_237,Endocrinologist,TER_WE_01,1,0,HealthSystem_17
+NPI_1000000238,Dr. Provider_238,Endocrinologist,TER_SO_02,2,0,HealthSystem_16
+NPI_1000000239,Dr. Provider_239,Endocrinologist,TER_MW_02,2,0,HealthSystem_10
+NPI_1000000240,Dr. Provider_240,Oncologist,TER_MW_01,7,0,HealthSystem_3
+NPI_1000000241,Dr. Provider_241,Cardiologist,TER_SO_02,2,0,HealthSystem_12
+NPI_1000000242,Dr. Provider_242,Rheumatologist,TER_WE_02,2,0,HealthSystem_7
+NPI_1000000243,Dr. Provider_243,Endocrinologist,TER_NE_01,2,0,HealthSystem_14
+NPI_1000000244,Dr. Provider_244,Cardiologist,TER_NE_02,2,0,HealthSystem_16
+NPI_1000000245,Dr. Provider_245,Cardiologist,TER_SO_02,1,0,HealthSystem_4
+NPI_1000000246,Dr. Provider_246,Cardiologist,TER_NE_02,6,0,HealthSystem_6
+NPI_1000000247,Dr. Provider_247,Oncologist,TER_WE_01,9,0,HealthSystem_13
+NPI_1000000248,Dr. Provider_248,Oncologist,TER_WE_01,10,0,HealthSystem_19
+NPI_1000000249,Dr. Provider_249,Endocrinologist,TER_NE_02,1,0,HealthSystem_9
+NPI_1000000250,Dr. Provider_250,Cardiologist,TER_MW_01,6,0,HealthSystem_15
+NPI_1000000251,Dr. Provider_251,Cardiologist,TER_NE_01,8,1,HealthSystem_10
+NPI_1000000252,Dr. Provider_252,Endocrinologist,TER_NE_02,5,0,HealthSystem_3
+NPI_1000000253,Dr. Provider_253,Cardiologist,TER_WE_02,5,0,HealthSystem_4
+NPI_1000000254,Dr. Provider_254,Endocrinologist,TER_NE_02,3,0,HealthSystem_9
+NPI_1000000255,Dr. Provider_255,Cardiologist,TER_NE_02,7,0,HealthSystem_8
+NPI_1000000256,Dr. Provider_256,Internal Medicine,TER_MW_01,1,0,HealthSystem_15
+NPI_1000000257,Dr. Provider_257,Cardiologist,TER_MW_01,5,0,HealthSystem_6
+NPI_1000000258,Dr. Provider_258,Oncologist,TER_WE_02,5,0,HealthSystem_17
+NPI_1000000259,Dr. Provider_259,Cardiologist,TER_SO_01,3,0,HealthSystem_3
+NPI_1000000260,Dr. Provider_260,Cardiologist,TER_NE_02,4,0,HealthSystem_1
+NPI_1000000261,Dr. Provider_261,Internal Medicine,TER_MW_01,7,0,HealthSystem_16
+NPI_1000000262,Dr. Provider_262,Rheumatologist,TER_MW_01,2,1,HealthSystem_4
+NPI_1000000263,Dr. Provider_263,Rheumatologist,TER_SO_02,1,0,HealthSystem_13
+NPI_1000000264,Dr. Provider_264,Internal Medicine,TER_MW_01,7,0,HealthSystem_11
+NPI_1000000265,Dr. Provider_265,Cardiologist,TER_WE_01,1,0,HealthSystem_14
+NPI_1000000266,Dr. Provider_266,Rheumatologist,TER_MW_02,1,0,HealthSystem_14
+NPI_1000000267,Dr. Provider_267,Cardiologist,TER_NE_01,4,0,HealthSystem_13
+NPI_1000000268,Dr. Provider_268,Rheumatologist,TER_SO_02,2,0,HealthSystem_9
+NPI_1000000269,Dr. Provider_269,Oncologist,TER_WE_01,3,0,HealthSystem_5
+NPI_1000000270,Dr. Provider_270,Cardiologist,TER_MW_02,1,0,HealthSystem_4
+NPI_1000000271,Dr. Provider_271,Cardiologist,TER_NE_01,6,0,HealthSystem_1
+NPI_1000000272,Dr. Provider_272,Cardiologist,TER_WE_02,1,0,HealthSystem_15
+NPI_1000000273,Dr. Provider_273,Oncologist,TER_MW_02,4,0,HealthSystem_12
+NPI_1000000274,Dr. Provider_274,Cardiologist,TER_MW_01,6,0,HealthSystem_19
+NPI_1000000275,Dr. Provider_275,Cardiologist,TER_WE_01,3,0,HealthSystem_4
+NPI_1000000276,Dr. Provider_276,Endocrinologist,TER_SO_01,7,0,HealthSystem_11
+NPI_1000000277,Dr. Provider_277,Cardiologist,TER_NE_02,6,0,HealthSystem_11
+NPI_1000000278,Dr. Provider_278,Cardiologist,TER_NE_01,9,0,HealthSystem_15
+NPI_1000000279,Dr. Provider_279,Endocrinologist,TER_MW_01,9,0,HealthSystem_5
+NPI_1000000280,Dr. Provider_280,Oncologist,TER_NE_01,2,0,HealthSystem_2
+NPI_1000000281,Dr. Provider_281,Cardiologist,TER_WE_02,7,0,HealthSystem_18
+NPI_1000000282,Dr. Provider_282,Internal Medicine,TER_WE_02,4,0,HealthSystem_17
+NPI_1000000283,Dr. Provider_283,Cardiologist,TER_WE_02,6,0,HealthSystem_7
+NPI_1000000284,Dr. Provider_284,Rheumatologist,TER_WE_02,2,0,HealthSystem_3
+NPI_1000000285,Dr. Provider_285,Cardiologist,TER_WE_01,3,0,HealthSystem_17
+NPI_1000000286,Dr. Provider_286,Rheumatologist,TER_MW_02,3,0,HealthSystem_2
+NPI_1000000287,Dr. Provider_287,Rheumatologist,TER_MW_01,10,0,HealthSystem_18
+NPI_1000000288,Dr. Provider_288,Rheumatologist,TER_NE_02,3,0,HealthSystem_11
+NPI_1000000289,Dr. Provider_289,Rheumatologist,TER_NE_01,9,0,HealthSystem_11
+NPI_1000000290,Dr. Provider_290,Endocrinologist,TER_WE_02,1,0,HealthSystem_14
+NPI_1000000291,Dr. Provider_291,Cardiologist,TER_WE_02,3,0,HealthSystem_1
+NPI_1000000292,Dr. Provider_292,Endocrinologist,TER_WE_02,9,0,HealthSystem_1
+NPI_1000000293,Dr. Provider_293,Cardiologist,TER_SO_01,1,0,HealthSystem_7
+NPI_1000000294,Dr. Provider_294,Cardiologist,TER_WE_01,2,0,HealthSystem_15
+NPI_1000000295,Dr. Provider_295,Cardiologist,TER_WE_01,5,1,HealthSystem_3
+NPI_1000000296,Dr. Provider_296,Internal Medicine,TER_NE_01,8,0,HealthSystem_9
+NPI_1000000297,Dr. Provider_297,Rheumatologist,TER_WE_02,9,0,HealthSystem_15
+NPI_1000000298,Dr. Provider_298,Internal Medicine,TER_WE_01,5,0,HealthSystem_6
+NPI_1000000299,Dr. Provider_299,Internal Medicine,TER_NE_02,3,0,HealthSystem_10
+NPI_1000000300,Dr. Provider_300,Endocrinologist,TER_NE_02,1,0,HealthSystem_13
+NPI_1000000301,Dr. Provider_301,Endocrinologist,TER_MW_01,2,1,HealthSystem_4
+NPI_1000000302,Dr. Provider_302,Rheumatologist,TER_SO_01,6,0,HealthSystem_19
+NPI_1000000303,Dr. Provider_303,Cardiologist,TER_SO_02,5,0,HealthSystem_9
+NPI_1000000304,Dr. Provider_304,Endocrinologist,TER_MW_02,1,0,HealthSystem_15
+NPI_1000000305,Dr. Provider_305,Cardiologist,TER_MW_02,1,1,HealthSystem_5
+NPI_1000000306,Dr. Provider_306,Cardiologist,TER_MW_02,6,0,HealthSystem_18
+NPI_1000000307,Dr. Provider_307,Internal Medicine,TER_WE_02,4,0,HealthSystem_2
+NPI_1000000308,Dr. Provider_308,Endocrinologist,TER_NE_02,4,0,HealthSystem_7
+NPI_1000000309,Dr. Provider_309,Cardiologist,TER_MW_01,2,0,HealthSystem_3
+NPI_1000000310,Dr. Provider_310,Rheumatologist,TER_WE_02,7,0,HealthSystem_8
+NPI_1000000311,Dr. Provider_311,Endocrinologist,TER_SO_02,1,0,HealthSystem_14
+NPI_1000000312,Dr. Provider_312,Endocrinologist,TER_SO_01,7,0,HealthSystem_15
+NPI_1000000313,Dr. Provider_313,Endocrinologist,TER_WE_01,2,0,HealthSystem_6
+NPI_1000000314,Dr. Provider_314,Rheumatologist,TER_NE_01,9,0,HealthSystem_5
+NPI_1000000315,Dr. Provider_315,Cardiologist,TER_NE_01,6,0,HealthSystem_13
+NPI_1000000316,Dr. Provider_316,Cardiologist,TER_WE_01,2,0,HealthSystem_14
+NPI_1000000317,Dr. Provider_317,Cardiologist,TER_SO_01,2,0,HealthSystem_1
+NPI_1000000318,Dr. Provider_318,Endocrinologist,TER_WE_02,4,0,HealthSystem_11
+NPI_1000000319,Dr. Provider_319,Rheumatologist,TER_SO_01,4,0,HealthSystem_12
+NPI_1000000320,Dr. Provider_320,Endocrinologist,TER_WE_01,7,0,HealthSystem_18
+NPI_1000000321,Dr. Provider_321,Oncologist,TER_NE_01,4,1,HealthSystem_1
+NPI_1000000322,Dr. Provider_322,Cardiologist,TER_SO_02,1,0,HealthSystem_1
+NPI_1000000323,Dr. Provider_323,Endocrinologist,TER_SO_02,5,0,HealthSystem_18
+NPI_1000000324,Dr. Provider_324,Oncologist,TER_MW_01,1,0,HealthSystem_7
+NPI_1000000325,Dr. Provider_325,Endocrinologist,TER_WE_01,3,0,HealthSystem_6
+NPI_1000000326,Dr. Provider_326,Cardiologist,TER_WE_02,1,0,HealthSystem_18
+NPI_1000000327,Dr. Provider_327,Cardiologist,TER_WE_01,1,0,HealthSystem_8
+NPI_1000000328,Dr. Provider_328,Cardiologist,TER_SO_02,7,0,HealthSystem_2
+NPI_1000000329,Dr. Provider_329,Rheumatologist,TER_WE_01,9,0,HealthSystem_18
+NPI_1000000330,Dr. Provider_330,Cardiologist,TER_NE_02,7,0,HealthSystem_12
+NPI_1000000331,Dr. Provider_331,Cardiologist,TER_NE_01,5,0,HealthSystem_19
+NPI_1000000332,Dr. Provider_332,Internal Medicine,TER_SO_02,3,0,HealthSystem_2
+NPI_1000000333,Dr. Provider_333,Oncologist,TER_SO_02,2,0,HealthSystem_16
+NPI_1000000334,Dr. Provider_334,Rheumatologist,TER_SO_01,4,0,HealthSystem_4
+NPI_1000000335,Dr. Provider_335,Rheumatologist,TER_SO_02,2,0,HealthSystem_6
+NPI_1000000336,Dr. Provider_336,Internal Medicine,TER_SO_01,6,0,HealthSystem_11
+NPI_1000000337,Dr. Provider_337,Endocrinologist,TER_SO_02,4,0,HealthSystem_15
+NPI_1000000338,Dr. Provider_338,Rheumatologist,TER_NE_02,3,0,HealthSystem_1
+NPI_1000000339,Dr. Provider_339,Cardiologist,TER_NE_01,3,0,HealthSystem_11
+NPI_1000000340,Dr. Provider_340,Rheumatologist,TER_SO_02,4,0,HealthSystem_9
+NPI_1000000341,Dr. Provider_341,Endocrinologist,TER_NE_02,9,0,HealthSystem_12
+NPI_1000000342,Dr. Provider_342,Cardiologist,TER_WE_02,4,0,HealthSystem_15
+NPI_1000000343,Dr. Provider_343,Endocrinologist,TER_WE_01,6,0,HealthSystem_11
+NPI_1000000344,Dr. Provider_344,Cardiologist,TER_WE_01,3,0,HealthSystem_15
+NPI_1000000345,Dr. Provider_345,Cardiologist,TER_MW_01,3,0,HealthSystem_13
+NPI_1000000346,Dr. Provider_346,Endocrinologist,TER_NE_02,1,0,HealthSystem_14
+NPI_1000000347,Dr. Provider_347,Cardiologist,TER_WE_01,4,0,HealthSystem_10
+NPI_1000000348,Dr. Provider_348,Rheumatologist,TER_NE_02,3,1,HealthSystem_11
+NPI_1000000349,Dr. Provider_349,Cardiologist,TER_MW_02,1,0,HealthSystem_7
+NPI_1000000350,Dr. Provider_350,Cardiologist,TER_NE_01,4,0,HealthSystem_4
+NPI_1000000351,Dr. Provider_351,Endocrinologist,TER_SO_02,6,0,HealthSystem_13
+NPI_1000000352,Dr. Provider_352,Rheumatologist,TER_MW_01,1,0,HealthSystem_9
+NPI_1000000353,Dr. Provider_353,Rheumatologist,TER_WE_01,4,0,HealthSystem_10
+NPI_1000000354,Dr. Provider_354,Internal Medicine,TER_WE_02,4,0,HealthSystem_4
+NPI_1000000355,Dr. Provider_355,Cardiologist,TER_MW_01,7,0,HealthSystem_18
+NPI_1000000356,Dr. Provider_356,Rheumatologist,TER_NE_02,3,0,HealthSystem_15
+NPI_1000000357,Dr. Provider_357,Cardiologist,TER_MW_02,7,0,HealthSystem_17
+NPI_1000000358,Dr. Provider_358,Cardiologist,TER_SO_01,4,0,HealthSystem_11
+NPI_1000000359,Dr. Provider_359,Cardiologist,TER_SO_02,4,0,HealthSystem_2
+NPI_1000000360,Dr. Provider_360,Cardiologist,TER_WE_01,5,0,HealthSystem_7
+NPI_1000000361,Dr. Provider_361,Rheumatologist,TER_MW_01,10,0,HealthSystem_19
+NPI_1000000362,Dr. Provider_362,Rheumatologist,TER_SO_02,4,0,HealthSystem_14
+NPI_1000000363,Dr. Provider_363,Cardiologist,TER_SO_01,8,0,HealthSystem_8
+NPI_1000000364,Dr. Provider_364,Endocrinologist,TER_SO_02,2,0,HealthSystem_17
+NPI_1000000365,Dr. Provider_365,Internal Medicine,TER_MW_02,6,0,HealthSystem_8
+NPI_1000000366,Dr. Provider_366,Internal Medicine,TER_NE_02,5,0,HealthSystem_3
+NPI_1000000367,Dr. Provider_367,Cardiologist,TER_NE_02,10,0,HealthSystem_17
+NPI_1000000368,Dr. Provider_368,Oncologist,TER_WE_01,3,0,HealthSystem_12
+NPI_1000000369,Dr. Provider_369,Cardiologist,TER_SO_01,1,0,HealthSystem_16
+NPI_1000000370,Dr. Provider_370,Endocrinologist,TER_SO_02,3,0,HealthSystem_17
+NPI_1000000371,Dr. Provider_371,Cardiologist,TER_WE_02,6,1,HealthSystem_13
+NPI_1000000372,Dr. Provider_372,Cardiologist,TER_MW_01,1,1,HealthSystem_8
+NPI_1000000373,Dr. Provider_373,Rheumatologist,TER_NE_01,7,0,HealthSystem_6
+NPI_1000000374,Dr. Provider_374,Cardiologist,TER_WE_02,6,0,HealthSystem_16
+NPI_1000000375,Dr. Provider_375,Endocrinologist,TER_MW_02,5,0,HealthSystem_1
+NPI_1000000376,Dr. Provider_376,Cardiologist,TER_SO_01,2,0,HealthSystem_9
+NPI_1000000377,Dr. Provider_377,Endocrinologist,TER_MW_01,3,0,HealthSystem_4
+NPI_1000000378,Dr. Provider_378,Internal Medicine,TER_SO_02,8,0,HealthSystem_5
+NPI_1000000379,Dr. Provider_379,Endocrinologist,TER_MW_02,8,0,HealthSystem_18
+NPI_1000000380,Dr. Provider_380,Rheumatologist,TER_SO_02,7,0,HealthSystem_6
+NPI_1000000381,Dr. Provider_381,Cardiologist,TER_WE_01,2,0,HealthSystem_3
+NPI_1000000382,Dr. Provider_382,Cardiologist,TER_NE_02,2,1,HealthSystem_18
+NPI_1000000383,Dr. Provider_383,Rheumatologist,TER_NE_01,4,0,HealthSystem_1
+NPI_1000000384,Dr. Provider_384,Internal Medicine,TER_SO_02,1,0,HealthSystem_14
+NPI_1000000385,Dr. Provider_385,Cardiologist,TER_MW_01,9,0,HealthSystem_13
+NPI_1000000386,Dr. Provider_386,Endocrinologist,TER_WE_02,3,0,HealthSystem_15
+NPI_1000000387,Dr. Provider_387,Oncologist,TER_MW_02,6,0,HealthSystem_13
+NPI_1000000388,Dr. Provider_388,Internal Medicine,TER_MW_02,3,0,HealthSystem_6
+NPI_1000000389,Dr. Provider_389,Cardiologist,TER_MW_01,4,0,HealthSystem_19
+NPI_1000000390,Dr. Provider_390,Endocrinologist,TER_SO_01,6,0,HealthSystem_2
+NPI_1000000391,Dr. Provider_391,Endocrinologist,TER_NE_02,1,0,HealthSystem_9
+NPI_1000000392,Dr. Provider_392,Endocrinologist,TER_NE_01,1,0,HealthSystem_14
+NPI_1000000393,Dr. Provider_393,Cardiologist,TER_WE_02,5,0,HealthSystem_4
+NPI_1000000394,Dr. Provider_394,Oncologist,TER_NE_01,2,0,HealthSystem_4
+NPI_1000000395,Dr. Provider_395,Endocrinologist,TER_WE_01,5,0,HealthSystem_3
+NPI_1000000396,Dr. Provider_396,Endocrinologist,TER_MW_02,3,0,HealthSystem_5
+NPI_1000000397,Dr. Provider_397,Cardiologist,TER_NE_02,1,0,HealthSystem_6
+NPI_1000000398,Dr. Provider_398,Cardiologist,TER_NE_02,5,0,HealthSystem_5
+NPI_1000000399,Dr. Provider_399,Cardiologist,TER_SO_01,7,0,HealthSystem_18
+NPI_1000000400,Dr. Provider_400,Cardiologist,TER_WE_02,3,0,HealthSystem_11

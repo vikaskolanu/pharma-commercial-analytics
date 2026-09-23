@@ -1,0 +1,9 @@
+Product_ID,Brand_Name,Manufacturer,Therapy_Area,Formulation,Launch_Year,WAC_Price_Monthly
+PRD_001,Repatha,Amgen,Cardiology,Injectable SubQ,2015,585
+PRD_002,Praluent,Regeneron,Cardiology,Injectable SubQ,2015,590
+PRD_003,Generic Atorvastatin,Viatris,Cardiology,Oral Tablet,2011,15
+PRD_004,Prolia,Amgen,Bone Health,Injectable SubQ,2010,1250
+PRD_005,Evenity,Amgen,Bone Health,Injectable SubQ,2019,1825
+PRD_006,Forteo,Eli Lilly,Bone Health,Injectable SubQ,2002,1950
+PRD_007,Enbrel,Amgen,Immunology,Injectable SubQ,1998,3400
+PRD_008,Humira,AbbVie,Immunology,Injectable SubQ,2002,3500

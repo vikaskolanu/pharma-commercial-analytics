@@ -1,0 +1,9 @@
+Territory_ID,Region,State,Territory_Name,Sales_Director
+TER_NE_01,Northeast,NY,Metro New York,Sarah Jenkins
+TER_NE_02,Northeast,MA,Greater Boston,Sarah Jenkins
+TER_MW_01,Midwest,IL,Chicago Area,David Chen
+TER_MW_02,Midwest,OH,Cleveland-Columbus,David Chen
+TER_SO_01,South,TX,Houston-Dallas,Elena Rodriguez
+TER_SO_02,South,FL,Miami-Orlando,Elena Rodriguez
+TER_WE_01,West,CA,Northern California,Marcus Brody
+TER_WE_02,West,CA,Southern California,Marcus Brody
